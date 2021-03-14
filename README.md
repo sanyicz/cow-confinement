@@ -1,2 +1,2 @@
 # cow-confinement
-Solution to a problem from CERC2015
+Solution to the problem 'Cow Confinement' from Central Europe Regional Contest 2015
