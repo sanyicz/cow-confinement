@@ -1,2 +1,2 @@
 # cow-confinement
-Solution to the problem 'Cow Confinement' from Central Europe Regional Contest 2015
+Bad solution to the problem 'Cow Confinement' from Central Europe Regional Contest 2015
